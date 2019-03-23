@@ -16,7 +16,7 @@ import
 
 const styles = ({ spacing: { unit } }) => ({
   root: {
-    margin: unit,
+    margin: 'auto',
     padding: unit * 3,
     maxWidth: 400
   },
