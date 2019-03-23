@@ -18,7 +18,8 @@ const styles = ({ spacing: { unit } }) => ({
   root: {
     margin: 'auto',
     padding: unit * 3,
-    maxWidth: 400
+    maxWidth: 400,
+    margin: 'auto'
   },
   create : {
     marginTop : '7%',
